@@ -1,0 +1,28 @@
+{
+  "name": "3-column-preview-card-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite serve src",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwayorn/3-column-preview-card-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwayorn/3-column-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/jwayorn/3-column-preview-card-component#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2",
+    "vite": "^2.3.4"
+  }
+}
